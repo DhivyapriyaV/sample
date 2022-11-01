@@ -1,2 +1,2 @@
 # sample
-# I am Divya
+# Welcome to the Git Hub
